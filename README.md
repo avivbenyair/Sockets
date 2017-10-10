@@ -1,1 +1,1 @@
-An exercise for security sam.
+An exercise for Security Sam.
